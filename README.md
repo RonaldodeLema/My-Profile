@@ -21,8 +21,9 @@
 ## Programming languages and tools
 <p align="left">
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="Python" height="30" width="40"/>
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/go.svg" alt="Golang" height="30" width="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/nodejs.svg" alt="Nodejs" height="30" width="40"/>
 <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mysql.svg" alt="MySQL" height="30" width="40"/>
+<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/csharp.svg" alt="C#" height="30" width="40"/>
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" height="30" width="40"/>
 </p>
 
