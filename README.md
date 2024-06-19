@@ -3,7 +3,7 @@
 ## Bio
  - 👤 I am Tran Van Thao - A person passionate about technology & researcher.
  - 👀 I am currently a fourth-year student at Ton Duc Thang University. I am also a Fresher with one year of experience as a Back-End Developer.
- - 💻 I have a passion for DevOps & AWS. My dream is to become a senior Back-end Developer.
+ - 💻 My dream is to become a senior Back-end Developer.
     ### ...
 
 ## My GitHub stats
